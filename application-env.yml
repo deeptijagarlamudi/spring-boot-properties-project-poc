@@ -24,3 +24,8 @@ eureka:
       fetchRegistry: false
 server:
   port : 8082
+  
+testapi:
+  endpoint: {{TEST_URL}}
+  key: {{TEST_KEY}}
+
