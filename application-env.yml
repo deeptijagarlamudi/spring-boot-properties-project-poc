@@ -28,3 +28,4 @@ server:
 testapi:
   endpoint: {{TEST_URL}}
   key: {{TEST_KEY}}
+
